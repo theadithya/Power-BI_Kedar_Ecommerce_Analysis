@@ -9,7 +9,13 @@
   - Examination of quantity distribution by payment mode to optimize payment processing systems.
   - Tracking profit per month to identify seasonal trends and inform financial forecasting.
 
-  ## Dashboard:
+## Dashboard:
 ![Dashboard](https://github.com/theadithya/Power-BI_Kedar_Ecommerce_Analysis/assets/155057818/2592fe55-52d5-45ef-a80a-c757be56fa65)
+
+## Demo:
+
+https://github.com/theadithya/Power-BI_Kedar_Ecommerce_Analysis/assets/155057818/dc8d2c28-3ec3-4e56-ba3f-2b116f7548a7
+
+
 
   
